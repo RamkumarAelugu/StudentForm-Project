@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StudentForm-Project/static/css/main.2e1b4138.css",
+    "main.js": "/StudentForm-Project/static/js/main.d88b1e04.js",
+    "static/js/453.935e67dc.chunk.js": "/StudentForm-Project/static/js/453.935e67dc.chunk.js",
+    "index.html": "/StudentForm-Project/index.html",
+    "main.2e1b4138.css.map": "/StudentForm-Project/static/css/main.2e1b4138.css.map",
+    "main.d88b1e04.js.map": "/StudentForm-Project/static/js/main.d88b1e04.js.map",
+    "453.935e67dc.chunk.js.map": "/StudentForm-Project/static/js/453.935e67dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e1b4138.css",
+    "static/js/main.d88b1e04.js"
+  ]
+}
